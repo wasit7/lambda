@@ -1,7 +1,7 @@
 # lambda
 Testing AWS Lambda
 * You need Ubuntu 16.04 64 bit, better to create from EC2.
-```sh
+```bash
 git clone https://github.com/wasit7/lambda.git
 cd lambda
 source init.sh
