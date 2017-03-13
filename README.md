@@ -14,3 +14,6 @@ https://a5jbw0mcc3.execute-api.us-east-1.amazonaws.com/prod/hello
 
 # note
 pscp -i key.ppk ubuntu@54.254.173.249:/home/ubuntu/lambda.zip lambda.zip
+
+# references
+http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example-deployment-pkg.html#with-s3-example-deployment-pkg-python
